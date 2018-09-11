@@ -15,5 +15,8 @@ Sqlite3
 Platform used:
 PyCharm
 
+Big Data file format:
+CSV
+
 OS used:
 Windows 10
